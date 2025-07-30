@@ -7,6 +7,9 @@
 Welcome to the **Advanced SQL Data Analytics Portfolio Project**! This repository showcases real-life data analytics skills using **Advanced SQL techniques**. 
 
 The main goal of this project is to demonstrate how to **solve real business questions** by performing various types of advanced analyses on datasets and generating insightful reports. By completing this project, you will be well-equipped to **analyze any dataset in any domain**.
+## **The Roadmap**
+![Uploading Project Roadmap.png…]()
+
 
 ## **Key Learning & Techniques**
 
